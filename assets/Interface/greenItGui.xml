@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.sourceforge.net/nifty.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://nifty-gui.sourceforge.net/nifty.xsd http://nifty-gui.sourceforge.net/nifty.xsd">
+ 
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+  <!-- start screen -->
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+   
+    
+    <screen id="start" controller="com.greenit.game.gui.GreenItGui">
+        <layer id="layer" childLayout="vertical" >
+            <panel id="panel" backgroundImage="/Textures/GameBoard3.jpg">
+                <effect>
+                    <onStartScreen name="fade" start="#00" end="#ff"/>
+                    <onEndScreen name="fade" start="#ff" end="#00"/>
+                </effect>          
+            </panel>
+        </layer>
+        <layer id="layer2" childLayout="center">
+            <panel id="panel2" backgroundImage="/Textures/NewGameButton.png" height="128px" width="384px" align="center" valign="center">               
+                <interact onClick="startNewGame()"/>
+                <effect>   
+                    <onActive name="playSound" sound="music" post="true" repeat="true" />                                          
+                    <onStartScreen name="fade" mode="in" direction="left" length="300" startDelay="0" inherit="true"/>
+                    <onEndScreen name="fade" mode="out" direction="bottom" length="0" startDelay="0" inherit="true"/>    
+                </effect>                          
+            </panel>
+        </layer>
+    </screen>
+</nifty>

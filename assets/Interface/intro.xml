@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.sourceforge.net/nifty.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://nifty-gui.sourceforge.net/nifty.xsd http://nifty-gui.sourceforge.net/nifty.xsd">
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+  <!-- start screen -->
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+   
+        
+    <screen id="intro" controller="com.greenit.game.gui.Intro">
+    <layer id="layer" childLayout="vertical" >
+        <panel id="splash" height="100%" width="100%" align="center" valign="center" backgroundImage="/Textures/startScreen.png" childLayout="vertical" visibleToMouse="true"> 
+            <effect>   
+                <onStartScreen name="fade" start="#00" end="#ff"/>
+                <onEndScreen name="fade" start="#ff" end="#00"/>
+            </effect>     
+        </panel>
+        </layer>
+    </screen>
+    <registerMusic id="music" filename="/Sounds/07 Blizzard.ogg"></registerMusic>
+</nifty>

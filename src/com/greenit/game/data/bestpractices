@@ -1,0 +1,16 @@
+#Name	Price	Environment Rating	Consumption	Money	Duration
+Paper managment lv1,5000,0.95,1,1,10
+Paper managment lv2,6000,0.90,1,1,12
+Paper managment lv3,7000,0.85,1,1,14
+Paper managment lv4,8000,0.80,1,1,16
+Paper managment lv5,9000,0.75,1,1,18
+Cooling Management lv1,10000,0.95,0.95,1,10
+Cooling Management lv2,11000,0.90,0.90,1,12
+Cooling Management lv3,12000,0.85,0.85,1,14
+Cooling Management lv4,13000,0.80,0.80,1,16
+Cooling Management lv5,14000,0.75,0.75,1,18
+Supplier Selection lv1,10000,0.95,1,1.05,10
+Supplier Selection lv2,11000,0.90,1,1.10,12
+Supplier Selection lv3,12000,0.85,1,1.15,14
+Supplier Selection lv4,13000,0.80,1,1.20,16
+Supplier Selection lv5,14000,0.75,1,1.25,18

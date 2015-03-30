@@ -1,0 +1,42 @@
+#0 brand,1 model,2 maxLoad,3 processorSpeed,4 consumption,5 usuryThreshold,6 nbSlot,7 price
+Zeon,Mini Z mk2,2,1,1,5,1,1500
+Zeon,Super Mini Z,2,2,2,3,1,1300
+Zeon,Super Z mk2,3,2,2,3,1,1400
+Zeon,Big Z mk4,3,3,3,5,1,1600
+Zeon,Big Z mk5,4,3,3,5,1,1800
+Zeon,HPZ mk1,4,4,3,6,1,2000
+Zeon,HPZ mk2,5,4,3,6,1,2200
+Zeon,HPZ mk3,5,4,3,6,1,2500
+Zeon,HPZ mk4,6,4,3,6,1,3000
+Zeon,Z <br/>special series,6,6,3,8,1,3500
+Zeon,Double <br/>Big Z mk1,6,6,5,6,2,4000
+Zeon,Double <br/>Big Z mk2,7,6,5,6,2,5000
+Zeon,Triple HPZ <br/>mk1,7,6,6,6,3,7000
+Zeon,Triple HPZ <br/>mk2,8,8,6,6,3,8000
+HC System,HD80,5,4,6,8,1,2500
+HC System,HD90,6,4,6,8,1,3000
+HC System,HDX,6,5,6,8,1,4000
+HC System,HD800,7,6,7,8,1,4500
+HC System,HD900,7,7,7,8,2,5000
+HC System,HDXX,7,8,8,8,2,6000
+HC System,HD5000,8,8,8,8,3,7000
+HC System,HD6000,9,8,8,8,3,8000
+HC System,HD7000,9,9,9,8,3,9000
+HC System,HD8000,10,9,9,8,3,10000
+HC System,HD9000,10,10,9,8,3,11000
+HC System,HDXX,10,10,10,9,3,12000
+HC System,HDS,10,10,10,10,3,15000
+Az' Tech,Luna mk1,2,2,2,5,1,1000
+Az' Tech,Luna mk2,2,4,3,5,1,1500
+Az' Tech,Luna mk6,3,4,3,5,1,1700
+Az' Tech,Rock mk1,3,5,5,5,2,2000
+Az' Tech,Rock mk2,4,5,5,5,2,2200
+Az' Tech,Rock mk3,4,6,6,5,2,2400
+Az' Tech,Sun mk1,5,6,6,5,2,2600
+Az' Tech,Sun mk2,5,7,7,5,2,2800
+Az' Tech,Sun mk3,6,7,7,5,2,3000
+Az' Tech,Fire mk1,6,9,8,5,2,4000
+Az' Tech,Fire S,7,9,8,5,2,5000
+Az' Tech,Moon mk1,7,9,10,5,3,6000
+Az' Tech,Moon mk2,8,9,10,5,3,7000
+Az' Tech,Moon mk3,8,10,10,5,3,8000

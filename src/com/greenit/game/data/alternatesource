@@ -1,0 +1,6 @@
+# Name	Type	Price	Availibility	Environment Rating
+Emergency Generators,fuel,0.015,1,0.005
+Backup greenergy,wind,0.04,1,-0.002
+Backup So-PS,solar,0.08,1,-0.001
+Backup nextE,nuclear,0.02,1,0.004
+Backup National Energy Compagny,fuel,0.01,1,0.010

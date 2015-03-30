@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.sourceforge.net/nifty.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://nifty-gui.sourceforge.net/nifty.xsd http://nifty-gui.sourceforge.net/nifty.xsd">
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+  <!-- In Game Menu -->
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+    <screen id="inGameStart" controller="com.greenit.game.gui.InGameMenu">
+        <layer id="layer3" backgroundColor="#f110" childLayout="vertical" width="100%" height="100%" valign="center">              
+            <panel id ="pushV" align="left" childLayout="horizontal" width="100%" height="10%" TextValign="center"></panel>                  
+            <panel id ="container" align="left" childLayout="horizontal" width="80%" height="60%" TextValign="center">            
+                <panel id ="pushH" align="left" childLayout="vertical" width="20%" height="100%" TextValign="center"></panel>
+            </panel>
+            <effect>
+                <onStartScreen name="move" mode="in" direction="left" length="300" startDelay="10" inherit="true"/>
+                <onEndScreen name="move" mode="out" direction="left" length="300" startDelay="0" inherit="true"/>
+            </effect>
+        </layer>
+    </screen>
+</nifty>

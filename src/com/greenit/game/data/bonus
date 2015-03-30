@@ -1,0 +1,20 @@
+#Name	Target	Attribute	Value	Duration
+SQL Professional,SQL,Complexity,0.75
+HTTP Professional,HTTP,Complexity,0.75
+IMAP Professional,IMAP,Complexity,0.75
+FTP Professionnal,FTP,Complexity,0.75
+DNS Professional,DNS,Complexity,0.75
+SQL Expert,SQL,Complexity,0.5
+HTTP Expert,HTTP,Complexity,0.5
+IMAP Expert,IMAP,Complexity,0.5
+FTP Expert,FTP,Complexity,0.5
+DNS Expert,DNS,Complexity,0.5
+SQL Guru,SQL,Complexity,0.25
+HTTP Guru,HTTP,Complexity,0.25
+IMAP Guru,IMAP,Complexity,0.25
+FTP Guru,FTP,Complexity,0.25
+DNS Guru,DNS,Complexity,0.25
+Memory Overclocking,Random UC,maxLoad,2
+CPU Overclocking,Random UC,processorSpeed,2
+Overpricing,Request,Award,1.5
+Max Overpricing,Request,Award,2

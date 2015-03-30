@@ -1,0 +1,5 @@
+# Name	Type	Price	Availibility	Environment Rating
+greenergy,wind,0.02,0.85,-0.005
+So-PS,solar,0.04,0.87,-0.002
+nextE,nuclear,0.01,0.90,0.002
+National <br/>Energy <br/>Compagny,fuel,0.005,0.90,0.005

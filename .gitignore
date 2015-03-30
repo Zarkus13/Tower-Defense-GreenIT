@@ -1,0 +1,4 @@
+*.svn/
+nbproject/
+build.xml
+build/

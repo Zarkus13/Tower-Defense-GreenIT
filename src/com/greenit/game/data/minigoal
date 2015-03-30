@@ -1,0 +1,13 @@
+#Name	Type	Request Type	Description
+FAI Savior,Classic,DNS,MiniGoal_FAISavior_Desc
+Green Secretary,Classic,IMAP,MiniGoal_GreenSecretary_Desc
+Bramble,Classic,SIP,MiniGoal_Bramble_Desc
+Green Challenge,Classic,SQL,MiniGoal_GreenChallenge_Desc
+uSoft Repository,Classic,FTP,MiniGoal_uSoftRepository_Desc
+Online Catalog,Classic,HTTP,MiniGoal_OnlineCatalog_Desc
+Artic Inc. SOS,Survival,DNS,MiniGoal_ArticIncSOS_Desc
+Mail Panic ,Survival,IMAP,MiniGoal_MailPanic_Desc
+Happy New Year,Survival,SIP,MiniGoal_HappyNewYear_Desc
+SQL Rush ,Survival,SQL,MiniGoal_SQLRush_Desc
+Pop Star ,Survival,FTP,MiniGoal_PopStar_Desc
+Magic Magic,Survival,HTTP,MiniGoal_MagicMagic_Desc
